@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Aarón Aarón</h1>
+<h1 align="center">Hola 👋, soy Aarón</h1>
 <h3 align="center">Un apasionado por la tecnología y el desarrollo de web/software</h3>
 
 - 📫 How to reach me **aaronrosas0409@gmail.com**
